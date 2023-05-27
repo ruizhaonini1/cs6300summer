@@ -1,0 +1,3 @@
+my second new file by using the command
+git commit -a -m "my second try"
+
